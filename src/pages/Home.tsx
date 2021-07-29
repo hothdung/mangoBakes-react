@@ -7,16 +7,14 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Blank</IonTitle>
+          <IonTitle>Mango Bakes Cakes</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent fullscreen>
-        <IonHeader collapse="condense">
-          <IonToolbar>
-            <IonTitle size="large">Blank</IonTitle>
-          </IonToolbar>
-        </IonHeader>
-        <ExploreContainer />
+      <IonContent>
+      <div className="centerImage">
+    <div>
+      <img src="./assets/img/logo.png"alt="logo"/></div>
+  </div>
       </IonContent>
     </IonPage>
   );
