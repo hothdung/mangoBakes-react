@@ -1,0 +1,7 @@
+{
+  "name": "mango-bakes-cakes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
