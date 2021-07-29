@@ -5,11 +5,11 @@ const Home: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
-        <IonToolbar>
+        <IonToolbar className="content">
           <IonTitle>Mango Bakes Cakes</IonTitle>
         </IonToolbar>
       </IonHeader>
-      <IonContent>
+      <IonContent className="content">
       <div className="centerImage">
     <div>
       <img src="./assets/img/logo.png"alt="logo"/></div>

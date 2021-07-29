@@ -1,3 +1,7 @@
+.content {
+  background-color: #ffffff;
+}
+
 .centerImage {
   display: flex;
   align-items: center;
